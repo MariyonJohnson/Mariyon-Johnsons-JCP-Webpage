@@ -1,0 +1,27 @@
+img {
+    width: 200px;
+    border-radius: 2px;
+    border: solid;
+    border-color: blue;
+
+}
+
+body {
+    background-color: gold;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+.container {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    color: gold;
+    justify-content: space-around;
+}
